@@ -1,8 +1,6 @@
 {
     "name": "vstaheev/yii2-shopping-cart",
     "description": "Yii2 extension that adds shopping cart functions",
-    "keywords": ["yii", "shopping cart"],
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Pavel Agalecky",
